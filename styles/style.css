@@ -1,0 +1,50 @@
+body {
+    margin: 0px auto;
+    color: #2E4B71;
+    font-size: 10px;
+}
+
+.top-bar {
+    background-color: #2E4B71;
+    color: #fff;
+    width: 400px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 10px;
+}
+
+.color-black {
+    color: #000;
+}
+
+.product-variant {
+    width: 70px;
+    height: 20px;
+    line-height: 2px;
+    font-size: 10px;
+    color: #2E4B71;
+    background-color: #fff;
+    border: #2E4B71 1px solid;
+}
+
+.product-variant:hover {
+    background-color: #2E4B71;
+    color: #fff;
+}
+
+.blue-white-style {
+    background-color: #2E4B71;
+    color: #fff;
+}
+
+.blue-border {
+    border: 1px solid #2E4B71
+}
+
+.color-gray {
+    color: #CDCDCD;
+}
+
+.color-white {
+    color: #fff;
+}
